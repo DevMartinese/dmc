@@ -1,8 +1,9 @@
-function App() {
+import Wire from "./components/Wires"
 
+function App() {
   return (
     <>
-      Hola Mundo
+      <Wire />
     </>
   )
 }
